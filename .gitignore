@@ -144,5 +144,6 @@ Edward*.pdf
 Craig*.pdf
 (Mathema*.pdf
 *Raol*.pdf
-*/imgs
-*/__MACOSX
+*.asv
+**/imgs
+**/__MACOSX
